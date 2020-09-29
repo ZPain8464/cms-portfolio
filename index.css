@@ -196,7 +196,7 @@
   }
 
   .rockRoll {
-    border: red solid 0.5rem;
+    border: #ffff3f solid 0.5rem;
     border-radius: 2rem;
     align-items: center;
     width: 75%;
